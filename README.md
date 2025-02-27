@@ -56,12 +56,12 @@ This project implements an **RFID-based Smart Cart System** using **Arduino**, a
 
 
 ## 🔧 Future Improvements
-![Wiring Diagram](imgs/imgs/1.jfif)
-![Wiring Diagram](imgs/imgs/2.jfif)
-![Wiring Diagram](imgs/imgs/3.jfif)
-![Wiring Diagram](imgs/imgs/4.jfif)
-![Wiring Diagram](imgs/imgs/5.jfif)
-![Wiring Diagram](imgs/imgs/6.jfif)
+![Wiring Diagram](imgs/imgs/1.jpg)
+![Wiring Diagram](imgs/imgs/2.jpg)
+![Wiring Diagram](imgs/imgs/3.jpg)
+![Wiring Diagram](imgs/imgs/4.jpg)
+![Wiring Diagram](imgs/imgs/5.jpg)
+![Wiring Diagram](imgs/imgs/6.jpg)
 
 ### **1️⃣ LED Indicators for Database Verification**
 
